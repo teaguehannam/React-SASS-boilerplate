@@ -7,7 +7,7 @@ No more create-react-app bloat.
 ##### Get Started 
 ```console
 git clone https://github.com/teaguehannam/React-SASS-boilerplate.git
-cd React-Sass-boilerplate/
+cd React-SASS-boilerplate/
 npm install
 npm start
 
