@@ -17,7 +17,7 @@ npm start
 - Setup file structure for project
 - /public/index.html
   - Title
-  - Content Data
+  - meta tag description
 - Add fave.ico to /public
 
 
