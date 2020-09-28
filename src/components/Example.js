@@ -1,4 +1,3 @@
-// Start Main App (2nd level)
 import React from 'react';
 
 function Example() {
