@@ -10,14 +10,14 @@ git clone https://github.com/teaguehannam/React-SASS-boilerplate.git
 cd React-SASS-boilerplate/
 npm install
 npm start
-
 ```
 
-##### First things you want to do:
+##### Initial things to do:
 - Setup file structure for project
+- In package.json, change repository[url] to your repository (line 23)
 - /public/index.html
   - Title
-  - meta tag description
+  - meta description content
 - Add fave.ico to /public
 
 
