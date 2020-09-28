@@ -24,7 +24,7 @@ npm start
 git remote set-url origin git://
 ```
 
-If you have node-sass globally installed, you can get rid it
+- If you have node-sass globally installed, you can get rid it in this project
 ```console
 npm uninstall node-sass
 ```
