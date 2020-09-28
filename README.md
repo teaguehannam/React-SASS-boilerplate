@@ -14,12 +14,15 @@ npm start
 
 ##### Initial things to do:
 - Setup file structure for project
-- In package.json, change repository[url] to your repository (line 23)
 - /public/index.html
   - Title
   - meta description content
 - Add fave.ico to /public
-
+- In package.json, change repository[url] to your repository (line 23)
+- Change remote repo location
+```console
+git remote set-url origin git://
+```
 
 If you have node-sass globally installed, you can get rid it
 ```console
