@@ -1,5 +1,4 @@
 # React-SASS-boilerplate
-No more create-react-app bloat.
 - index.js setup for router
 - App.js contains routes
 - /style folder template based on [this repo](https://github.com/HugoGiraudel/sass-boilerplate)
