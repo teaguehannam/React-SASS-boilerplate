@@ -6,10 +6,10 @@ npm install
 npm start
 ```
 ##### Things to change
+- fave.ico
 - /public/index.html
   - Title
   - meta description content
-- fave.ico
 - In package.json
   - name, author, description
   - (line 25) change repository[url] to your repository 
