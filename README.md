@@ -5,14 +5,14 @@ cd React-SASS-boilerplate/
 npm install
 npm start
 ```
-##### Initial things:
+##### Things to change
 - /public/index.html
   - Title
   - meta description content
-- Add fave.ico to /public
+- fave.ico
 - In package.json
-  - (line 2) change app's name
-  - (line 23) change repository[url] to your repository 
+  - name, author, description
+  - (line 25) change repository[url] to your repository 
 ```console
-git remote set-url origin git://[repo url]
+git remote set-url origin git://[gitRepoURL]
 ```
