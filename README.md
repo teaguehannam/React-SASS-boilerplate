@@ -1,5 +1,5 @@
 # React-SASS-boilerplate
-React, router, scripts, SASS boilerplate
+React, router, scripts, SASS
 ```console
 git clone https://github.com/teaguehannam/React-SASS-boilerplate.git
 cd React-SASS-boilerplate/
